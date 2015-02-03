@@ -1,3 +1,5 @@
 Archivo de Texto linea 1
 Archivo de Texto linea 2
 Archivo de Texto linea 3
+Archivo de Texto linea 4
+Fin del archivo
